@@ -1,0 +1,44 @@
+  form {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: rgb(238, 244, 255);
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+  }
+
+  input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  button {
+    margin-top: 25px;
+    width: 100%;
+    padding: 12px;
+    background-color: rgb(0, 25, 72);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: rgb(0, 37, 106);
+  }

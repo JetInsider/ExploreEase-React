@@ -1,0 +1,9 @@
+h2{
+    text-align: center;
+    margin: 20px auto;
+}
+
+.active{
+    color: rgb(236, 236, 236) !important;
+    text-decoration: underline !important;
+}
